@@ -1,12 +1,12 @@
 body {
   font-family: "Roboto", sans-serif;
   color: var(--text-color);
-  background-color: var(--background-color);
+  background-color: var(--background-color)
 }
 
 :root {
-  --background-color: #ffffff;
-  --title-color: #2e2f42;
+  --background-color: #FFFFFF;
+  --title-color: #2E2F42;
   --text-color: #434455;
 }
 
