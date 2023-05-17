@@ -7,7 +7,7 @@ body {
 :root {
   --background-color: #ffffff;
   --title-color: #2e2f42;
-  --text-color: #434455;
+  --text-color: #434445;
 }
 
 .list {
@@ -98,8 +98,8 @@ body {
   cursor: pointer;
 }
 
-.hero-btn:hover,
-.hero-btn:focus {
+.hero-bn:hover,
+.hero-bn:focus {
   background: #404bbf;
   color: #ffffff;
 }
@@ -123,8 +123,6 @@ body {
   background: #404bbf;
 }
 
-/* -----Section VALUES----- */
-
 .values {
   background-color: var(--background-color);
 }
@@ -136,8 +134,6 @@ body {
   letter-spacing: 0.02em;
   color: var(--title-color);
 }
-
-/* -----Section WORK----- */
 
 .work {
   background-color: var(--background-color);
@@ -151,8 +147,6 @@ body {
   text-transform: capitalize;
   color: var(--title-color);
 }
-
-/* -----Section TEAM----- */
 
 .team {
   background-color: #f4f4fd;
